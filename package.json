@@ -1,0 +1,14 @@
+{
+  "name": "js-06",
+  "version": "1.0.0",
+  "description": "my js-06 tamrin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "06"
+  ],
+  "author": "mm._.eh",
+  "license": "ISC"
+}
